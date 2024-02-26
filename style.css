@@ -1,0 +1,49 @@
+body{
+    background-color:whitesmoke;
+   margin: 0px;
+   padding: 0%;
+   border-radius: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+  
+    
+}
+.class1{
+    background-color: aqua;
+    height: 50px;
+}
+#class1{
+    background-color: chocolate;
+    height: 250px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.loc{
+    height: 150px;
+    background-color: aliceblue;
+    width: 500px;
+
+}
+.class2{
+    background-color: #ffff;
+    height: 150px;
+}
+.class3{
+    background-color: bisque;
+    height: 100px;
+
+}
+.class4{
+    background-color: #cccddd;
+    height: 105px;
+}
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
